@@ -151,6 +151,6 @@ An AI-powered platform that helps founders validate startup ideas before spendin
 </div>
 
 <br/>
-
+<p align="center">See you in the next commit🌸</p>
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=130&section=footer&animation=twinkling" width="100%" alt="Footer" />
