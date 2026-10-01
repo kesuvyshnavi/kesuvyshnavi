@@ -120,7 +120,7 @@ An AI-powered platform that helps founders validate startup ideas before spendin
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kesuvyshnavi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&ring_color=FF69B4&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesuvyshnavi&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=F8BBD0" alt="Top Languages" />
   <br/><br/>
-  <a href="https://github.com/kesuvyshnavi"><img src="https://ghchart.rshah.org/FF69B4/kesuvyshnavi" alt="Contribution Graph" width="95%" /></a>
+ 
 </div>
 
 ---
