@@ -1,143 +1,165 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ============================================================
+     GitHub Profile README  |  Kesu Vyshnavi  |  Pink theme
+     Colors used: #EF93C4  #F8BBD0  #FF69B4
+     Repo name must be exactly: kesuvyshnavi  (same as username)
+     ============================================================ -->
+
+<!-- ===================== BANNER (light / dark responsive) ===================== -->
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=230&section=header&text=Hey%20there%2C%20I%27m%20Vyshnavi&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=CSE%20Student%20%7C%20Full-Stack%20Web%20Developer%20in%20the%20Making&descSize=17&descAlignY=62&descColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=230&section=header&text=Hey%20there%2C%20I%27m%20Vyshnavi&fontSize=44&fontColor=7A1F4F&animation=twinkling&fontAlignY=40&desc=CSE%20Student%20%7C%20Full-Stack%20Web%20Developer%20in%20the%20Making&descSize=17&descAlignY=62&descColor=7A1F4F">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=230&section=header&text=Hey%20there%2C%20I%27m%20Vyshnavi&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=CSE%20Student%20%7C%20Full-Stack%20Web%20Developer%20in%20the%20Making&descSize=17&descAlignY=62&descColor=ffffff" width="100%">
+  </picture>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Kesu%20Vyshnavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20in%20the%20Making&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
-
-<!-- Animated typing text: edit the text after "lines=" (separate lines with semicolons) -->
-<a href="https://github.com/kesuvyshnavi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Vyshnavi+%F0%9F%91%8B;CSE+Student+%40+JNTUA+College+of+Engineering;Building+full-stack+web+apps+%F0%9F%9A%80;Learning+DSA+%26+exploring+AI+%F0%9F%A7%A0;Open+to+open-source+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+<!-- ===================== TYPING TEXT ===================== -->
+<div align="center">
+  <a href="https://github.com/kesuvyshnavi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Web+Developer+in+the+Making+%F0%9F%92%BB;CSE+Student+%40+JNTUA+College+of+Engineering+%F0%9F%8E%93;Building+real-world+apps+with+Node.js+%26+React+%F0%9F%9A%80;Learning+DSA+%26+exploring+AI+%F0%9F%A7%A0;Open+to+open-source+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kesuvyshnavi&label=Profile%20Views&color=6C63FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kesuvyshnavi?label=Followers&style=for-the-badge&color=00C9A7&logo=github)
-
+<!-- ===================== PINK BADGES ===================== -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/kesuvyshnavi?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=FF69B4" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kesuvyshnavi/veridex?label=Veridex%20Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=EF93C4" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=kesuvyshnavi&label=Profile%20Views&style=for-the-badge&labelColor=1a1a2e&color=F8BBD0" alt="Profile Views" />
 </div>
 
----
+<br/>
 
-<!-- ===================== ABOUT ME ===================== -->
-## 👩‍💻 About Me
+<!-- ===================== ABOUT ME (65% text / 35% image) ===================== -->
+<h2 align="center">✨ About Me ✨</h2>
 
-I'm a third-year Computer Science Engineering student at JNTUA College of Engineering, Anantapur, who loves turning ideas into working web applications. I enjoy building full-stack projects and learning by shipping real things. I'm always learning, always building, and looking for opportunities to grow as a developer.
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        I'm a third-year <b>Computer Science Engineering</b> student at <b>JNTUA College of Engineering, Anantapur</b>, who loves turning ideas into working web applications. I enjoy building full-stack projects and learning by shipping real things. I'm always learning, always building, and looking for opportunities to grow as a developer.
+      </p>
+      <ul>
+        <li>🎓 <b>Education:</b> B.Tech in CSE, JNTUA College of Engineering, Anantapur (Autonomous)</li>
+        <li>📍 <b>Location:</b> Ananthapur, Andhra Pradesh, India</li>
+        <li>🎯 <b>Looking for:</b> Internships &amp; entry-level roles in software and web development</li>
+        <li>📚 <b>Currently learning:</b> Data Structures &amp; Algorithms</li>
+        <li>💡 <b>Interests:</b> Web Development • AI • Open Source • SDE</li>
+        <li>🤝 <b>Open to collaborate on:</b> Open-source projects</li>
+        <li>⚡ <b>Fun fact:</b> I genuinely enjoy work that takes time. The more effort I put into something, the more I love the result! 🌸</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Your GitHub avatar. To use another photo, replace this URL with a link to your image. -->
+      <img src="https://github.com/kesuvyshnavi.png?size=300" width="220" alt="Vyshnavi" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 **Education:** B.Tech in Computer Science Engineering, Jawaharlal Nehru Technological University, Anantapur College of Engineering (Autonomous)
-- 📍 **Location:** Ananthapur, Andhra Pradesh, India
-- 🎯 **Career Goals:** Looking for internships and entry-level opportunities in software and web development, where I can learn from experienced teams, contribute to real projects, and grow my skills.
-- 💡 **Interests:** Web Development • AI • Open Source • SDE
-- ⚡ **Fun Fact:** I genuinely enjoy work that takes time. The more effort I put into something, the more I love the result, and I'll stick with a problem until it's done right. 🚀
+<br/>
 
----
+<!-- ===================== TECH STACK (Skill Icons) ===================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css&theme=dark" alt="Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express&theme=dark" alt="Frontend and Backend" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode&theme=dark" alt="Databases and Tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Render-FF69B4?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/SQL-EF93C4?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+</div>
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ===================== FEATURED PROJECT ===================== -->
+<h2 align="center">🚀 Featured Project</h2>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<div align="center">
+  <a href="https://github.com/kesuvyshnavi/veridex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kesuvyshnavi&repo=veridex&theme=transparent&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=FF69B4&bg_color=0D1117" alt="Veridex" />
+  </a>
+  <p>
+    <b>Veridex</b> is an AI-powered startup risk assessment and strategic decision support platform. It analyzes market size, competitors, risk, SWOT and feasibility, then uses a LangGraph agent to generate prioritized recommendations, with secure accounts, a personal dashboard and exportable PDF reports.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-FF69B4?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-EF93C4?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-F8BBD0?style=flat-square&logo=postgresql&logoColor=black" />
+    <img src="https://img.shields.io/badge/LangGraph-FF69B4?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Groq_AI-EF93C4?style=flat-square&logoColor=white" />
+  </p>
+  <a href="https://veridex-ncjj.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-FF69B4?style=for-the-badge&labelColor=1a1a2e" alt="Live Demo" /></a>
+  <a href="https://github.com/kesuvyshnavi/veridex"><img src="https://img.shields.io/badge/💻_Source_Code-EF93C4?style=for-the-badge&labelColor=1a1a2e" alt="Source Code" /></a>
+  <br/>
+  <sub>Hosted on a free tier, so the first load can take about 50 seconds.</sub>
+</div>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- To add another project later, copy the block above and change the repo name and details -->
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
-
-### 🔍 [Veridex](https://github.com/kesuvyshnavi/veridex)
-> **AI-Powered Startup Risk Assessment & Strategic Decision Support Platform**
-
-An AI-powered platform that helps founders validate startup ideas before spending money. It analyzes market size, competitors, risk, SWOT and feasibility, then uses a LangGraph agent to generate prioritized strategic recommendations, with secure accounts, a personal dashboard and exportable PDF reports.
-
-- 🧱 **Tech Stack:** HTML • CSS • JavaScript • Node.js • Express • PostgreSQL (Supabase) • Groq API • LangGraph.js • JWT & bcrypt • PDFKit • Render
-- 💻 **GitHub:** [kesuvyshnavi/veridex](https://github.com/kesuvyshnavi/veridex)
-- 🌐 **Live Demo:** [veridex-ncjj.onrender.com](https://veridex-ncjj.onrender.com) *(hosted on a free tier, so the first load may take about 50 seconds)*
-
-<!-- To add another project later, copy the block above and update the details -->
-
----
+<br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kesuvyshnavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesuvyshnavi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kesuvyshnavi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&ring_color=FF69B4&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesuvyshnavi&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=F8BBD0" alt="Top Languages" />
 </div>
 
-### 🔥 Streak Stats
+<br/>
+
+<!-- ===================== STREAK ===================== -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kesuvyshnavi&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&currStreakLabel=EF93C4&sideNums=F8BBD0&sideLabels=EF93C4&dates=F8BBD0" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesuvyshnavi&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=FF69B4&hide_border=true&title_color=FF69B4" alt="Contribution Graph" width="95%" />
+</div>
+
+<br/>
+
+<!-- ===================== CONTRIBUTION SNAKE =====================
+     The snake is built by a GitHub Action, not by this README alone.
+     1. Put snake.yml at: .github/workflows/snake.yml
+     2. Repo Settings > Actions > General > Workflow permissions > "Read and write permissions"
+     3. Actions tab > "Generate Snake" > Run workflow (the first run creates the "output" branch)
+     The images below load from that "output" branch.
+     ================================================================ -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=kesuvyshnavi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesuvyshnavi/kesuvyshnavi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesuvyshnavi/kesuvyshnavi/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/kesuvyshnavi/kesuvyshnavi/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
----
-
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-## 📚 Currently Learning
-
-- 🧩 **Data Structures & Algorithms (DSA)**
-
----
-
-<!-- ===================== COLLABORATION ===================== -->
-## 🤝 Open to Collaborate On
-
-- 🌍 **Open-source projects**
-
----
+<br/>
 
 <!-- ===================== CONNECT ===================== -->
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vyshnavi-kesu-361073378">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:kesuvyshnavi22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/kesuvyshnavi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-⭐ *Thanks for stopping by! If you like my work, consider giving my repos a star.* ⭐
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesuvyshnavi/kesuvyshnavi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesuvyshnavi/kesuvyshnavi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kesuvyshnavi/kesuvyshnavi/output/github-snake.svg" />
-</picture>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer" width="100%" alt="Footer Banner"/>
-
+  <a href="https://www.linkedin.com/in/vyshnavi-kesu-361073378"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" /></a>
+  <a href="mailto:kesuvyshnavi22@gmail.com"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" /></a>
+  <a href="https://github.com/kesuvyshnavi"><img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e" alt="GitHub" /></a>
+  <!-- Want to add Instagram, X, YouTube or TikTok later? Copy a badge above and swap the logo name and link. -->
 </div>
 
+<br/>
 
+<div align="center">
+  <i>Thanks for stopping by! If you like my work, drop a ⭐ on my repos. 🌸</i>
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=140&section=footer&animation=twinkling" width="100%" alt="Footer" />
